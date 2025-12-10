@@ -1,0 +1,213 @@
+---
+title: Plymouth Heights CRC Survey Analysis
+subtitle: Congregational Survey Results for Pastoral Search
+date: 2025-12-10
+authors:
+  - name: Survey Analysis Team
+---
+
+# Plymouth Heights CRC Survey Analysis
+
+**Comprehensive analysis of 68 congregational survey responses to guide the pastoral search process.**
+
+---
+
+## Overview
+
+This analysis provides data-driven insights from the Plymouth Heights Christian Reformed Church congregation to inform the completion of the church profile form and guide the pastoral search committee.
+
+:::{card} Survey Details
+**Total Responses:** 68
+**Response Quality:** Very High
+**Analysis Date:** December 2025
+**Weekly Attenders:** 94%
+:::
+
+---
+
+## Quick Navigation
+
+::::{grid} 2
+:::{card} 🚀 Quick Start
+:link: QUICK_START.md
+**New here? Start with this!**
+
+5-minute orientation to all documents and how to use them effectively.
+:::
+
+:::{card} 📊 Executive Summary
+:link: outputs/executive_summary.md
+**Get the essentials (10 min)**
+
+Key findings, statistics, and bottom-line recommendations for the search committee.
+:::
+
+:::{card} 📈 Full Analysis Report
+:link: outputs/analysis_report.md
+**Deep dive (1-2 hours)**
+
+50-page comprehensive analysis with 150+ quotes, detailed findings, and recommendations.
+:::
+
+:::{card} 📝 Profile Guidance
+:link: outputs/profile_guidance.md
+**Complete the form (3-4 hours)**
+
+Section-by-section guidance for filling out the official church profile form.
+:::
+::::
+
+---
+
+## Key Findings at a Glance
+
+### Top Church Strengths
+
+1. **Worship Services** (68% cited)
+2. **Community Presence** (47%)
+3. **Youth Program Ministries** (46%)
+4. **Value for Diversity** (44%)
+5. **Leadership** (29%)
+
+### Primary Challenges
+
+1. **Nurturing Young People** (69% - CRITICAL)
+2. **Busy Lives/Competing Priorities** (59%)
+3. **Welcoming Community Members** (35%)
+4. **Age Gaps in Congregation** (29%)
+5. **New Member Integration** (29%)
+
+### What You Need in a Pastor
+
+#### Non-Negotiables
+- ✅ **Exceptional biblical preacher** (most cited)
+- ✅ **Strong relational skills**
+- ✅ **Long-term commitment**
+- ✅ **Leadership capacity**
+- ✅ **Staff leadership ability**
+
+#### First Year Priorities
+1. **Fostering belonging** (31% mentioned)
+2. **Strong preaching** (19%)
+3. **Youth programs** (18%)
+4. **Getting to know congregation** (16%)
+5. **Community engagement** (15%)
+
+---
+
+## Data Visualizations
+
+The analysis includes **16 professional visualizations**:
+- 5 statistical charts (attendance, scales, participation, strengths, challenges)
+- 11 word clouds (worship, pastor qualities, priorities, identity, future goals)
+
+All visualizations are available in the [figures directory](outputs/figures/).
+
+---
+
+## Available Formats
+
+All reports are available in multiple formats:
+
+| Document | Markdown | PDF | DOCX |
+|----------|----------|-----|------|
+| Quick Start | ✓ | ✓ | ✓ |
+| Executive Summary | ✓ | ✓ | ✓ |
+| Analysis Report | ✓ | ✓ | ✓ |
+| Profile Guidance | ✓ | ✓ | ✓ |
+
+See the [Format Guide](outputs/CONVERTED_FORMATS.md) for usage recommendations.
+
+---
+
+## Critical Insights
+
+:::{attention} Youth Retention Crisis
+**69% identified youth retention as the #1 challenge.**
+The congregation is experiencing a "youth exodus" with the younger generation moving away. This is the single most urgent issue requiring pastoral attention.
+:::
+
+:::{note} Denominational Tension
+Mixed views on CRC relationship ranging from "very good" to "unstable ground." The new pastor must navigate theological diversity with grace while maintaining biblical conviction.
+:::
+
+:::{tip} Belonging Gap
+29% observe that the church "welcomes warmly but new members don't feel they belong." There's a need for clearer pathways to involvement and genuine community integration.
+:::
+
+---
+
+## How to Use This Analysis
+
+### For Search Committee Members
+1. Start with [Quick Start](QUICK_START.md) (5 min)
+2. Read [Executive Summary](outputs/executive_summary.md) (10 min)
+3. Study [Full Analysis](outputs/analysis_report.md) (90 min)
+4. Use [Profile Guidance](outputs/profile_guidance.md) when completing form
+
+### For Council Members
+1. Read [Executive Summary](outputs/executive_summary.md)
+2. Review key visualizations in figures/
+3. Discuss: Does this align with your understanding?
+
+### For Completing the Profile Form
+1. Use [Profile Guidance](outputs/profile_guidance.md) as your working document
+2. Reference [Full Analysis](outputs/analysis_report.md) for supporting quotes
+3. Supplement with church records for missing data (demographics, financials)
+
+---
+
+## The Bottom Line
+
+**Plymouth Heights is a theologically grounded, missionally engaged, worship-centered congregation** with:
+
+- ✅ **Strong foundation:** Committed members, excellent programs, community presence
+- ⚠️ **Critical need:** Youth retention and next generation engagement
+- ⚠️ **Healing needed:** Unity amid denominational tensions, staff dynamics
+- 🎯 **Clear ask:** Exceptional preacher who is relational, committed long-term, and can lead renewal
+
+**The right pastor can lead this church into a thriving new season. The congregation has spoken clearly about what they need.**
+
+---
+
+## Next Steps
+
+::::{grid} 1 1 2 2
+:::{card} Week 1: Understanding
+- Committee reads executive summary
+- Initial reactions meeting
+- Assign full report sections to members
+:::
+
+:::{card} Week 2: Deep Dive
+- Members read assigned sections
+- Discussion of findings
+- Identify areas needing council input
+:::
+
+:::{card} Week 3: Profile Drafting
+- Assign form completion (1-2 people)
+- Gather missing church data
+- Draft profile using guidance document
+:::
+
+:::{card} Week 4: Finalization
+- Committee reviews draft
+- Council approval
+- Final adjustments and submission
+:::
+::::
+
+---
+
+## Additional Resources
+
+- **[Document Index](outputs/INDEX.md)** - Navigate all documents and visualizations
+- **[Format Guide](outputs/CONVERTED_FORMATS.md)** - When to use PDF vs DOCX vs Markdown
+- **[README](README.md)** - Technical documentation and methodology
+
+---
+
+:::{note} About This Analysis
+This analysis was conducted using quantitative statistical methods and qualitative text analysis on 68 survey responses. All statistics and quotes are drawn directly from the survey data. The analysis provides the congregation's voice - combine it with leadership wisdom and prayer as you seek God's chosen shepherd for Plymouth Heights CRC.
+:::

@@ -1,0 +1,44 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d12c5569-5ec3-4eb5-ab26-ef8749b5ed53
+  title: Plymouth Heights CRC Survey Analysis
+  description: Comprehensive analysis of congregational survey responses for pastoral search committee
+  keywords:
+    - church survey analysis
+    - pastoral search
+    - congregational insights
+    - Plymouth Heights CRC
+    - survey data analysis
+  authors:
+    - name: Eric Araujo
+  date: 2025-12-10
+
+  # Table of Contents
+  toc:
+    - file: index.md
+      title: Home
+    - file: QUICK_START.md
+      title: Quick Start Guide
+    - title: Analysis Reports
+      children:
+        - file: outputs/executive_summary.md
+          title: Executive Summary
+        - file: outputs/analysis_report.md
+          title: Comprehensive Analysis
+        - file: outputs/profile_guidance.md
+          title: Profile Form Guidance
+    - title: Reference Documents
+      children:
+        - file: outputs/INDEX.md
+          title: Document Index
+        - file: outputs/CONVERTED_FORMATS.md
+          title: Format Guide
+        - file: README.md
+          title: Technical Documentation
+
+site:
+  template: book-theme
+  title: Plymouth Heights CRC Survey Analysis
+  options:
+    logo_text: PHCRC Survey Analysis

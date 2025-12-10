@@ -1,0 +1,11 @@
+This project contains the answers from a survey to Plymouth Heights CRC congregation regarding their understanding of who they are and what are their expectations for the new pastor.
+
+The results will be analyzed using LLMs and coding in order to fill the search committee form.
+
+The initial project contains the following documents, that should NEVER be modified:
+
+1. church-profile-form.md contains the form to be filled and that should guide the analyzis of the responses.
+2. survey-answers.csv contains the answers for a form created with the purpose of helping understanding the congregation's expectations and perceptions.
+
+We have as a main goal in this project to provide some text analysis and data analysis over the answers in the csv document and a report that guides the filling of the church-profile-form.md document.
+
